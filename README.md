@@ -26,6 +26,7 @@ This webpage changes a paragraph's text when the user clicks the **Change Messag
 **Expected output:** The message changes from "Welcome to my website!" to "Hello there!" after clicking the button.
 
 **Screenshot:**
+
 <img width="565" height="255" alt="image" src="https://github.com/user-attachments/assets/380ef2b0-f70a-48ee-91eb-2c55e025cb3e" />
 <img width="465" height="262" alt="image" src="https://github.com/user-attachments/assets/33dba9c1-c323-464d-bfba-c76c4654b584" />
 ![Question 1 Output]
