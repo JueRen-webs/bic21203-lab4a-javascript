@@ -1,4 +1,4 @@
-# bic21203-lab4a-javascript
+<img width="1097" height="215" alt="image" src="https://github.com/user-attachments/assets/c2ddff9e-88d0-4348-9afe-5b2f1316f76e" /># bic21203-lab4a-javascript
 
 ## Student Information
 
@@ -29,7 +29,7 @@ This webpage changes a paragraph's text when the user clicks the **Change Messag
 
 <img width="565" height="255" alt="image" src="https://github.com/user-attachments/assets/380ef2b0-f70a-48ee-91eb-2c55e025cb3e" />
 <img width="465" height="262" alt="image" src="https://github.com/user-attachments/assets/33dba9c1-c323-464d-bfba-c76c4654b584" />
-![Question 1 Output]
+
 ### Question 2: Smart Number Validator
 
 This webpage accepts a number from the user and displays a validation message based on the input.
@@ -52,7 +52,12 @@ This webpage accepts a number from the user and displays a validation message ba
 
 **Screenshot:**
 
-![Question 2 Output](screenshots/q2-output.png)
+<img width="1092" height="202" alt="image" src="https://github.com/user-attachments/assets/1fb7eb3a-1364-48a8-b7d6-2d6fb8a6059b" />
+<img width="1080" height="192" alt="image" src="https://github.com/user-attachments/assets/f21d013c-f6be-46fd-be6c-2f4fa4db2c8f" />
+<img width="1097" height="215" alt="image" src="https://github.com/user-attachments/assets/1c946e53-0b65-42e2-a907-c884c0b534cb" />
+<img width="1085" height="237" alt="image" src="https://github.com/user-attachments/assets/95ea525e-ed0d-4e38-8896-883bdf6847f2" />
+<img width="1102" height="235" alt="image" src="https://github.com/user-attachments/assets/80cebd2a-91a6-4af4-9c47-928939875908" />
+<img width="1105" height="195" alt="image" src="https://github.com/user-attachments/assets/26294f92-f232-4d36-b346-51d2d109af92" />
 
 ### Question 3: Dynamic Number Generator
 
