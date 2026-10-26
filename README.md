@@ -75,7 +75,7 @@ This webpage generates an ordered list from 1 to 5 when the user clicks the **Ge
 
 **Screenshot:**
 
-![Question 3 Output](screenshots/q3-output.png)
+<img width="537" height="475" alt="image" src="https://github.com/user-attachments/assets/26316c88-177e-46cb-95ed-3c4ac3e58db0" />
 
 ## 3. How to Run
 
@@ -87,23 +87,6 @@ This webpage generates an ordered list from 1 to 5 when the user clicks the **Ge
 
 No external libraries are required.
 
-## 4. Repository Structure
-
-```text
-bic21203-lab4a-javascript/
-├── Q1/
-│   └── index.html
-├── Q2/
-│   └── index.html
-├── Q3/
-│   └── index.html
-├── screenshots/
-│   ├── q1-output.png
-│   ├── q2-output.png
-│   └── q3-output.png
-└── README.md
-```
-
-## 5. Reflection
+## 4. Reflection
 
 Through this lab, I learned how to use JavaScript to make web pages interactive. I also learned how to validate user input using conditional statements and generate HTML elements using a loop. I gained a better understanding of DOM manipulation and event handling. One challenge was handling invalid inputs correctly and preventing duplicate list items when the button was clicked repeatedly.
