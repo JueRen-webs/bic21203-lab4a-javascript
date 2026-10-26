@@ -1,4 +1,4 @@
-<img width="1097" height="215" alt="image" src="https://github.com/user-attachments/assets/c2ddff9e-88d0-4348-9afe-5b2f1316f76e" /># bic21203-lab4a-javascript
+# bic21203-lab4a-javascript
 
 ## Student Information
 
